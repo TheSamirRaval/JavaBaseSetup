@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawHorizontalTrack="true"
+        android:scrollbars="horizontal"
+        tools:ignore="WebViewLayout">
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="@dimen/_400sdp"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+</HorizontalScrollView>

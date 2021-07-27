@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726439494695",
+    "project_id": "fir-databasedemo-95d9e",
+    "storage_bucket": "fir-databasedemo-95d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726439494695:android:5d9b716dd8a3b03de63a02",
+        "android_client_info": {
+          "package_name": "com.javabasesetupmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726439494695-poabpr062c5nfj45hgt7cm4j62ref6kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNs8Rr3zEpnQmg4ZKZcLLxLRok__SUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726439494695-poabpr062c5nfj45hgt7cm4j62ref6kk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726439494695-cee86p76jq30lf1i5nn0aqmia005bt9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.demo.swift.FireStoreDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
