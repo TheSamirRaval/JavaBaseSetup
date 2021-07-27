@@ -2,12 +2,12 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.javabasesetupmvvm.ui.feed.FeedActivity">
+    tools:context="com.vpn.javabasesetupmvvm.ui.feed.FeedActivity">
 
     <data>
         <variable
             name="viewModel"
-            type="com.javabasesetupmvvm.ui.feed.FeedViewModel" />
+            type="com.vpn.javabasesetupmvvm.ui.feed.FeedViewModel" />
     </data>
 
     <LinearLayout

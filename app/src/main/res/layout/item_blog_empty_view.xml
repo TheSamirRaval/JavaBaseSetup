@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.javabasesetupmvvm.ui.feed.blogs.BlogEmptyItemViewModel" />
+            type="com.vpn.javabasesetupmvvm.ui.feed.blogs.BlogEmptyItemViewModel" />
 
     </data>
 

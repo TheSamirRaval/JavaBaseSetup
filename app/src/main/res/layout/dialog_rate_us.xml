@@ -22,7 +22,7 @@
 
         <variable
             name="viewModel"
-            type="com.javabasesetupmvvm.ui.main.rating.RateUsViewModel" />
+            type="com.vpn.javabasesetupmvvm.ui.main.rating.RateUsViewModel" />
 
     </data>
 

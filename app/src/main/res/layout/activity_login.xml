@@ -10,7 +10,7 @@
 
         <variable
             name="viewModel"
-            type="com.javabasesetupmvvm.ui.login.LoginViewModel" />
+            type="com.vpn.javabasesetupmvvm.ui.login.LoginViewModel" />
 
     </data>
 

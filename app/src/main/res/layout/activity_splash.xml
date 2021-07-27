@@ -23,7 +23,7 @@
 
         <variable
             name="viewModel"
-            type="com.javabasesetupmvvm.ui.splash.SplashViewModel" />
+            type="com.vpn.javabasesetupmvvm.ui.splash.SplashViewModel" />
 
     </data>
 
